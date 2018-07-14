@@ -1,0 +1,16 @@
+Bureau of Justice Statistics,,,,
+filename:  mpjitt05.csv,,,,
+"Text table 5. Percent of jail inmates injured since admission, by most serious offense",,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,
+author:  Laura M. Maruschak,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,
+date of version: 10/24/06,,,,
+
+"Text table 5. Percent of jail inmates injured since admission, by most serious offense",,,,
+,Percent of jail inmates since admission ,,,
+Most serious offense,Injured in an accident,,Injured in a fight,
+Violent,8.8,%,10.8,%
+Property,7.1,,6.4,
+Drug,7,,6.2,
+Public-order,6.6,,4.6,

@@ -1,0 +1,16 @@
+Bureau of Justice Statistics,,,,,,
+filename:  mpjitt01.csv,,,,,,
+"Text table 1. Number of current medical problems reported by jail inmates, by gender",,,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,,
+author:  Laura M. Maruschak,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,
+date of version: 10/20/06,,,,,,
+
+"Text table 1. Number of current medical problems reported by jail inmates, by gender",,,,,,
+,Percent of jail inmates,,,,,
+Number of current medical,Total,,Male,,Female,
+0,63.1,%,65.2,%,47.4,%
+1,22.4,,21.7,,28.3,
+2,8.7,,8.1,,13.5,
+3 or more ,5.7,,5,,10.8,

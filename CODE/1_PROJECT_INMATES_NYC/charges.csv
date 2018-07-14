@@ -1,0 +1,41 @@
+,charges,value_counts,code_charges,clean_top_charges
+0,125.25,864,"New York Consolidated Laws, Penal Law - PEN § 125.25 Murder in the second degree",Murder in the second degree
+1,160.15,444,"New York Consolidated Laws, Penal Law - PEN § 160.15 Robbery in the first degree",Robbery in the first degree
+2,120.05,364,"New York Consolidated Laws, Penal Law - PEN § 120.05 Assault in the second degree",Assault in the second degree
+3,265.03,356,"New York Consolidated Laws, Penal Law - PEN § 265.03 Criminal possession of a weapon in the second degree",Criminal possession of a weapon in the second degree
+4,140.25,325,"New York Consolidated Laws, Penal Law - PEN § 140.25 Burglary in the second degree",Burglary in the second degree
+5,220.39,310,"New York Consolidated Laws, Penal Law - PEN § 220.39 Criminal sale of a controlled substance in the third degree",Criminal sale of a controlled substance in the third degree
+6,220.16,308,"New York Consolidated Laws, Penal Law - PEN § 220.16 Criminal possession of a controlled substance in the third degree",Criminal possession of a controlled substance in the third degree
+7,160.10,307,"New York Consolidated Laws, Penal Law - PEN § 160.10 Robbery in the second degree",Robbery in the second degree
+8,140.20,263,"New York Consolidated Laws, Penal Law - PEN § 140.20 Burglary in the third degree",Burglary in the third degree
+9,155.25,232,"New York Consolidated Laws, Penal Law - PEN § 155.25 Petit larceny",Petit larceny
+10,120.00,223,"New York Consolidated Laws, Penal Law - PEN § 120.00 Assault in the third degree",Assault in the third degree
+11,155.30,204,"New York Consolidated Laws, Penal Law - PEN § 155.30 Grand Larceny in the fourth degree",Grand Larceny in the fourth degree
+12,120.10,198,"New York Consolidated Laws, Penal Law - PEN § 120.10 Assault in the first degree",Assault in the first degree
+13,215.51,131,"New York Consolidated Laws, Penal Law - PEN § 215.51 Criminal contempt in the first degree",Criminal contempt in the first degree
+14,220.03,116,"New York Consolidated Laws, Penal Law - PEN § 220.03 Criminal possession of a controlled substance in the seventh degree",Criminal possession of a controlled substance in the seventh degree
+15,220.21,114,"New York Consolidated Laws, Penal Law - PEN § 220.21 Criminal possession of a controlled substance in the first degree",Criminal possession of a controlled substance in the first degree
+16,140.30,109,"New York Consolidated Laws, Penal Law - PEN § 140.30 Burglary in the first degree",Burglary in the first degree
+17,160.05,102,"New York Consolidated Laws, Penal Law - PEN § 160.05 Robbery in the third degree",Robbery in the third degree
+18,130.35,88,"New York Consolidated Laws, Penal Law - PEN § 130.35 Rape in the first degree",Rape in the first degree
+19,155.35,87,"New York Consolidated Laws, Penal Law - PEN § 155.35 Grand larceny in the third degree",Grand larceny in the third degree
+20,170.25,81,"New York Consolidated Laws, Penal Law - PEN § 170.25 Criminal possession of a forged instrument in the second degree",Criminal possession of a forged instrument in the second degree
+21,265.02,71,"New York Consolidated Laws, Penal Law - PEN § 265.02 Criminal possession of a weapon in the third degree",Criminal possession of a weapon in the third degree
+22,265.01,70,"New York Consolidated Laws, Penal Law - PEN § 265.01-b Criminal possession of a firearm",Criminal possession of a firearm
+23,105.15,69,"New York Consolidated Laws, Penal Law - PEN § 105.15 Conspiracy in the second degree",Conspiracy in the second degree
+24,215.50,67,"New York Consolidated Laws, Penal Law - PEN § 215.50 Criminal contempt in the second degree",Criminal contempt in the second degree
+25,220.43,63,"New York Consolidated Laws, Penal Law - PEN § 220.43 Criminal sale of a controlled substance in the first degree",Criminal sale of a controlled substance in the first degree
+26,900.00,52,,
+27,130.65,46,"New York Consolidated Laws, Penal Law - PEN § 130.65-a Aggravated sexual abuse in the fourth degree",Aggravated sexual abuse in the fourth degree
+28,120.07,46,"New York Consolidated Laws, Penal Law - PEN § 120.07 Gang assault in the first degree",Gang assault in the first degree
+29,130.50,46,"New York Consolidated Laws, Penal Law - PEN § 130.50 Criminal sexual act in the first degree",Criminal sexual act in the first degree
+30,165.45,45,"New York Consolidated Laws, Penal Law - PEN § 165.45 Criminal possession of stolen property in the fourth degree",Criminal possession of stolen property in the fourth degree
+31,220.77,42,"New York Consolidated Laws, Penal Law - PEN § 220.77 Operating as a major trafficker",Operating as a major trafficker
+32,220.41,38,"New York Consolidated Laws, Penal Law - PEN § 220.41 Criminal sale of a controlled substance in the second degree",Criminal sale of a controlled substance in the second degree
+33,130.75,36,"New York Consolidated Laws, Penal Law - PEN § 130.75 Course of sexual conduct against a child in the first degree",Course of sexual conduct against a child in the first degree
+34,145.00,35,"New York Consolidated Laws, Penal Law - PEN § 145.00 Criminal mischief in the fourth degree",Criminal mischief in the fourth degree
+35,215.52,33,"New York Consolidated Laws, Penal Law - PEN § 215.52 Aggravated criminal contempt",Aggravated criminal contempt
+36,155.40,33,"New York Consolidated Laws, Penal Law - PEN § 155.40 Grand larceny in the second degree",Grand larceny in the second degree
+37,130.52,33,"New York Consolidated Laws, Penal Law - PEN § 130.52 Forcible touching",Forcible touching
+38,999.99,32,,
+39,150.15,32,"New York Consolidated Laws, Penal Law - PEN § 150.15 Arson in the second degree",Arson in the second degree

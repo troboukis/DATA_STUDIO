@@ -1,0 +1,26 @@
+"Bureau of Justice Statistics",,,,,,
+"filename:  mhts0002.csv",,,,,,
+"Table #: 2  Mental health screening and treatment in State confinement  facilities, by facility security level, June 30, 2000",,,,,,
+"report title: Mental Health Treatment in State Prisons, 2000  NCJ 188215",,,,,,
+"data source:  2000 Census of State and Federal Adult Correctional Facilities",,,,,,
+"author:  Allen J. Beck and Laura M. Maruschak",,,,,,
+"refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,
+"date of version: 7/10/01",,,,,,
+,,,,,,
+"Table 2.  Mental health screening and treatment in State confinement  facilities, by facility security level, June 30, 2000",,,,,,
+,,,,,,
+,"Facility security level",,,,,
+,"Maximum/high",,"Medium",,"Minimum/low",
+"Mental health policy","Number","Percent","Number","Percent","Number","Percent"
+"Total",299,100,489,100,316,100
+"Any screening/treatment",296,99.0,482,99.0,265,86.6
+"Screen inmates at intake",261,87.3,402,82.5,190,62.1
+"Conduct psychiatric assessments",264,88.3,409,84.0,190,62.1
+"Provide 24-hour mental health care ",189,63.2,358,73.5,144,47.1
+"Provide therapy/counseling",283,94.6,444,91.2,196,64.1
+"Distribute psychotropic medications",285,95.3,432,88.7,190,62.1
+"Help released inmates obtain services",253,84.6,363,74.5,172,56.2
+"No screening/treatment ",3,1.0,5,1.0,41,13.2
+"Not reported",0,,2,,10,
+,,,,,,
+"Note: Excludes five confinement facilities without a designated security level. ",,,,,,

@@ -1,0 +1,24 @@
+Bureau of Justice Statistics,,,,
+filename:  mpjitt02.csv,,,,
+"Text table 2. Rate of jail inmates who reported ever having cancer by type per 10,000 inmates ",,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,
+author:  Laura M. Maruschak,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,
+date of version: 10/20/06,,,,
+
+"Text table 2. Rate of those who reported ever having cancer by type per 10,000 inmates ",,,,
+ ,,"Rate of those who reported ever having cancer by type per 10,000 inmates ",,
+Type of cancer,,Male,,Female
+Any,,108,,831
+,Breast,2,,91
+,Cervical,~,,490
+,Uterine,~,,49
+,Ovarian,~,,110
+,Colon ,13,,29
+,Prostate,11,,~
+,Testicular,13,,~
+,Lung,15,,16
+,Skin,37,,69
+,Leukemia,10,,34
+~ Not applicable.,,,,

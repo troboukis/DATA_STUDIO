@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,
+filename:  mpjif02.csv,,,,
+"Figure 2. Injuries reported by inmates since admission, by age and time served",,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,
+author:  Laura M. Maruschak,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,
+date of version: 11/07/06,,,,
+
+"Figure 2. Injuries reported by inmates since admission, by age and time served",,,,
+,Percent injured,,,
+Time served since admission,34 or younger,,35 or older,
+7 days or less,4.9,%,3.2,%
+8-14 days,5.5,,5,
+15-30 days,8.4,,5.1,
+31-60 days,14.3,,11.3,
+61-180 days,20.6,,10.1
+181-365 days,22.9,,17.8
+365+ days,33,,25.3

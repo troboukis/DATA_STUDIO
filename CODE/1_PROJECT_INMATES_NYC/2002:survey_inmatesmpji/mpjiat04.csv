@@ -1,0 +1,20 @@
+Bureau of Justice Statistics,,,,,
+filename:  mpjiat04.csv,,,,,
+"Appendix table 4. Standard errors of jail inmates with a current medical problem or an impairment, by gender and age, 2002 ",,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,
+author:  Laura M. Maruschak,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,
+date of version: 10/31/06,,,,,
+
+"Appendix table 4. Standard errors of jail inmates with a current medical problem or an impairment, by gender and age, 2002 ",,,,,
+ ,,Standard error for estimated percentages,,,
+,,Current medical problem,,Any impairment,
+Gender,,,,,
+,Male,0.72,%,0.75,%
+,Female,1.2,,1.28,
+Age,,,,,
+,24 or younger,1.04,%,1.23,%
+,25-34,1.16,,1.19,
+,35-44,1.31,,1.29,
+,45 or older,1.93,,2.04,

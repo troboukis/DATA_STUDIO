@@ -1,0 +1,40 @@
+"Bureau of Justice Statistics",,,,,
+"filename:  mhts0005.csv",,,,,
+"Table #: 5 Characteristics of State correctional facilities  providing mental health services, June 30, 2000",,,,,
+"report title: Mental Health Treatment in State Prisons, 2000  NCJ 188215",,,,,
+"data source:  2000 Census of State and Federal Adult Correctional Facilities",,,,,
+"author:  Allen J. Beck and Laura M. Maruschak",,,,,
+"refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765",,,,,
+"date of version: 7/10/01",,,,,
+,,,,,
+"Table 5.  Characteristics of State correctional facilities  providing mental health services, June 30, 2000",,,,,
+,,,,,
+,"Facilities that specialize in mental",,,"Other facilities",
+,"health/psychiatric confinement/a",,,,"Community-"
+"Characteristic","Total","Primary","Secondary","Confinement","based"
+"Number of facilities",155,12,143,961,442
+"Average daily population",,,,,
+"1,500 or more",44,2,42,169,3
+"750-1,499",54,1,53,310,3
+"250-749",37,5,32,278,32
+"100-249",13,3,10,157,114
+"Fewer than 100",7,1,6,47,290
+"Mean ",1400,690,1460,928,130
+"Number of inmates held on June 30, 2000"," 217,420"," 8,124"," 209,296"," 902,976"," 58,411"
+"Number of inmates receiving treatment/b",,,,,
+"In 24-hour care",13739,3335,10404,3308,116
+"In therapy/counseling",38992,3373,35619,83828,3876
+"Psychotropic medications",34426,3277,31149,60976,2170
+"Percent of inmates",,,,,
+"  In 24-hour care",6.8,47.5,5.3,0.4,0.2
+"  In therapy/counseling",19.2,46.7,18.2,11.2,8.1
+"  Psychotropic medications",16.6,45.3,15.6,8,4.4
+"Rated capacity/c",217682,9255,208427,899528,61664
+"Percent of capacity occupied/d",99.9,87.8,100.4,100.4,94.7
+,,,,,
+"a/Facilities could report more than one function.  Primary function was the category  which applied to the ",,,,,
+"largest number of inmates on June 30.  Secondary function includes all other facilities that reported mental ",,,,,
+"health/psychiatric confinement as a facility function. ",,,,,
+"b/Excludes inmates in mental health treatment in Florida for whom only statewide totals were reported.",,,,,
+"c/Rated capacity is the maximum number of beds or inmates assigned  by a rating official. ",,,,,
+"d/Percent of capacity occupied is the ratio of number of inmates held to the rated capacity on June 30, 2000.",,,,,

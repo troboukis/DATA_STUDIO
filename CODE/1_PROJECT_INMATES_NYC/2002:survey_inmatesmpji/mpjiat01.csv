@@ -1,0 +1,16 @@
+Bureau of Justice Statistics,,,,
+filename:  mpjiat01.csv,,,,
+"Appendix table 1. Standard errors of jail inmates who reported a medical problem, by conviction status, 2002",,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,
+author:  Laura M. Maruschak,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,
+date of version: 10/31/06,,,,
+
+
+"Appendix table 1. Standard errors of jail inmates who reported a medical problem, by conviction status, 2002",,,,
+ ,Standard error for estimated percentages,,,
+,Convicted,,Unconvicted,
+Current medical problem,0.89,%,1.2,%
+Any impairment,0.09,,1.2,
+Injury since admission,0.61,,0.95,

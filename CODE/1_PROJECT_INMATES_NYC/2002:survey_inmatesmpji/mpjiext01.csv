@@ -1,0 +1,20 @@
+Bureau of Justice Statistics,,,
+filename:  mpjiext01.csv,,,
+Exhibit table 1. Percent of jail inmates who reported receiving medical attention,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,
+data source:  2002 Survey of Inmates in Local Jails,,,
+author:  Laura M. Maruschak,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,
+date of version: 10/24/06,,,
+
+Exhibit table 1. Percent of jail inmates who reported receiving medical services,,,
+Medical service provided ,,Percent of all jail inmates,
+At time of admission,,,
+,"Staff checked to see if you were sick, injured, or intoxicated?",47.3,%
+,Staff asked questions about your health or medical history?,81.1,
+,Staff asked if you had ever thought about suicide?,79.4,
+Since admission,,,
+,Has anyone pricked your skin to test for TB?,62.6,%
+,Have you had a blood test for any reason?,33.6,
+,Has your blood been tested for HIV?,21.6,
+,Have you had a medical exam?,43.1,

@@ -1,0 +1,30 @@
+"Bureau of Justice Statistics",,,,,,
+"filename:  mhts0001.csv",,,,,,
+"Table #: 1 Mental health screening and treatment in State correctional  facilities, by type of facility, June 30, 2000",,,,,,
+"report title: Mental Health Treatment in State Prisons, 2000  NCJ 188215",,,,,,
+"data source:  2000 Census of State and Federal Adult Correctional Facilities",,,,,,
+"author:  Allen J. Beck and Laura M. Maruschak",,,,,,
+"refer questions to: askbjs@ojp.usdoj.gov (202) 307-0765",,,,,,
+"date of version: 7/10/01",,,,,,
+,,,,,,
+"Table 1.  Mental health screening and treatment in State correctional  facilities, by type of facility, June 30, 2000",,,,,,
+,,,,,,
+,,,"Confinement",,"Community-based",
+,"All facilities",,"facilities",,"facilities",
+"Mental health policy","Number","Percent","Number","Percent","Number","Percent"
+"Total",1558,100,1109,100,449,100
+"Any screening/treatment",1394,91.8,1047,95.4,347,82.2
+"Screen inmates at intake",1055,69.5,855,77.9,200,47.4
+"Conduct psychiatric assessments",990,65.2,864,78.8,126,29.9
+"Provide 24-hour mental health care ",776,51.1,693,63.2,83,19.7
+"Provide therapy/counseling",1073,70.6,926,84.4,147,34.8
+"Distribute psychotropic medications",1115,73.4,910,83,205,48.6
+"Help released inmates obtain services",1006,66.2,790,72,216,51.2
+"No screening/treatment ",125,8.2,50,4.6,75,17.8
+"Not reported",39,,12,,27,
+,,,,,,
+"Note: Excludes 84 Federal facilities and 26 privately-operated facilities  ",,,,,,
+"in which at least half of the inmates were under Federal authority.",,,,,,
+"Includes facilities in which 50 percent or more of their inmates are regularly ",,,,,,
+"unaccompanied and those facilities whose primary function is community ",,,,,,
+"corrections, work release, or prerelease.  ",,,,,,

@@ -1,0 +1,27 @@
+Bureau of Justice Statistics,,,,,,,,,,,,,,,
+filename:  mpjit02.csv,,,,,,,,,,,,,,,
+"Table 2. Percent of jail inmates reporting specific current medical problems, by gender and age, 2002",,,,,,,,,,,,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,,,,,,,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,,,,,,,,,,,
+author:  Laura M. Maruschak,,,,,,,,,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,,,,,,,,,
+date of version: 10/18/06,,,,,,,,,,,,,,,
+
+"Table 2. Percent of jail inmates reporting specific current medical problems, by gender and age, 2002",,,,,,,,,,,,,,,
+,,,Gender,,,,,Age,,,,,,,
+Current medical problem, All inmates ,,Male ,,Female,,,24 or younger,, 25-34,, 35-44,,45 or older,
+Arthritis,12.9,%,12,%,19.4,%,,5.3,%,9.4,%,16.6,%,32.5,%
+Asthma,9.9,,8.7,,19.4,,,10.9,,10.8,,8.9,,7.3,
+Cancer,0.7,,0.5,,2.5,,,0.2,,0.7,,0.6,,2.2,
+Diabetes,2.7,,2.5,,4.1,,,0.6,,2.3,,2.9,,8.4,
+Heart problem,5.9,,5.5,,9.2,,,4.4,,4.6,,6.4,,11.7
+Hypertension,11.2,,10.8,,14.1,,,5.3,,8.5,,14.3,,26.1
+Kidney problems,3.7,,3,,8.9,,,2.3,,4,,4.4,,4.8
+Liver problems,0.9,,0.8,,1.6,,,0.1,,0.4,,1.3,,3.4
+Paralysis,1.3,,1.3,,1.3,,,0.3,,1.3,,1.7,,3.1
+Stroke,3.2,,3.2,,3.3,,,1.3,,2.9,,4.9,,4.8
+Hepatitis,2.6,,2.3,,5,,,0.4,,1.4,,4.6,,7.2
+HIV,1.3,,1.2,,2.3,,,0.2,,1.1,,2.1,,2.7
+Sexually transmitted disease,0.9,,0.8,,2,,,0.7,,0.7,,1,,1.7
+Tuberculosis*,4.3,,4.3,,4,,,2.2,,3.8,,5.3,,8.6
+*Inmates were considered to currently have TB if they reported ever having TB.,,,,,,,,,,,,,,

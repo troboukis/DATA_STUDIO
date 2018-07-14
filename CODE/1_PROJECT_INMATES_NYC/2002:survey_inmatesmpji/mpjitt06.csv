@@ -1,0 +1,18 @@
+Bureau of Justice Statistics,,,,,
+filename:  mpjitt06.csv,,,,,
+"Text table 6. Percent of jail inmates injured since admission, by type of impairment",,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,
+author:  Laura M. Maruschak,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,
+date of version: 10/24/06,,,,,
+
+"Text table 6. Percent of jail inmates injured since admission, by type of impairment",,,,,
+,,Percent of jail inmates since admission,,,
+Type of impairment,,Injured in an accident,,Injured in a fight,
+Physical,,,,,
+,Yes,9.7,%,9.8,%
+,No,6.3,,5.6,
+Mental,,,,,
+,Yes,11.6,%,12.9,%
+,No,7,,6.5,

@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,,,
+filename:  mpjit07.csv,,,,,,
+"Table 7. Percent of jail inmates who reported an injury since admission, by time served, 2002",,,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,,
+author:  Laura M. Maruschak,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,
+date of version: 10/18/06,,,,,,
+
+"Table 7. Percent of jail inmates who reported an injury since admission, by time served, 2002",,,,,,
+,Percent of inmates who reported an injury ,,,,,
+Time since admission,Total,,In an accident,,In a fight,
+7 or fewer days,4.3,%,2.7,%,2,%
+8-14 days,5.3,,3.5,,2,
+15-30 days,7.1,,3.9,,3.5,
+31-60 days,13.1,,7.1,,6.5,
+61-180 days,16.6,,9.1,,9.1
+181-364 days,21,,11.2,,11.4
+1 year or more,30,,17,,15.9

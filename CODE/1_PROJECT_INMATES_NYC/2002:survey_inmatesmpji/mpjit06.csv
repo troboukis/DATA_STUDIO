@@ -1,0 +1,25 @@
+Bureau of Justice Statistics,,,,,,,
+filename:  mpjit06.csv,,,,,,,
+"Table 6. Percent of jail inmates who reported an injury since admission, by conviction status, gender and age, 2002",,,,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,,,
+author:  Laura M. Maruschak,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,
+date of version: 10/18/06,,,,,,,
+
+"Table 6. Percent of jail inmates who reported an injury since admission, by conviction status, gender and age, 2002",,,,,,,
+,,Percent of inmates who reported an injury since admission ,,,,,
+Characteristics,,Total ,,In an accident,,In a fight ,
+,Total,13.4,%,7.4,%,7,%
+Conviction status,,,,,,,
+,Convicted ,12.6,%,7.9,%,5.9,%
+,Unconvicted ,15.6,,7.5,,8.8,%
+,Both,12.1,,5.5,,7.7,
+Gender,,,,,,,
+,Male,13.8,%,7.5,%,7.4,%
+,Female,10.1,,6.7,,4.1,
+Age,,,,,,,
+,24 or younger,17.4,%,8.2,%,10.6,%
+,25-34,13.6,,7.5,,7.2,
+,35-44,11.2,,7.1,,4.8,
+,45 or older,7.8,,5.8,,2.5,

@@ -1,0 +1,20 @@
+Bureau of Justice Statistics,,,,,,
+filename:  mpjit03.csv,,,,,,
+"Table 3. Current medical problems reported by jail inmates, by time served, 2002",,,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,,
+author:  Laura M. Maruschak,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,
+date of version: 10/18/06,,,,,,
+
+"Table 3. Current medical problems reported by jail inmates, by time served, 2002",,,,,,
+,Percent of inmates,,,,,
+,,,Since admission,,,
+Time since admission,Curent medical problem,,Had surgery,,Dental problem,
+7 or fewer days,38.2,%,0.2,%,12.2,%
+8-14 days,34.3,,0.7,,15.2,
+15-30 days,37.3,,0.4,,19.9,
+31-60 days,36.8,,0.8,,24.6
+61-180 days,37.4,,1.6,,30.9
+181-364 days,35.6,,3.9,,35.1
+1 year or more,37.8,,3.5,,42.4

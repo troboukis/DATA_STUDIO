@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,
+filename:  mpjif04.csv,,,,
+"Figure 4. Fight-related injuries reported by inmates since admission, by offense and time served",,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,
+author:  Laura M. Maruschak,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,
+date of version: 11/07/06,,,,
+
+"Figure 4. Fight-related injuries reported by inmates since admission, by offense and time served",,,,
+,Percent injured,,,
+Time served since admission,Violent offenders,,Nonviolent offenders,
+7 days or less,2.6,%,1.9,%
+8-14 days,3.2,,1.7,
+15-30 days,5.2,,3,
+31-60 days,8.7,,5.8,
+61-180 days,12.5,,7.9
+181-365 days,15.3,,9.4
+365+ days,21.8,,11.8

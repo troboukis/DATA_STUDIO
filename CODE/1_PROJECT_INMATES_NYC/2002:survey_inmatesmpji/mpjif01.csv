@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,
+filename:  mpjif01.csv,,,,
+"Figure 1. Injuries reported by inmates since admission, by gender and time served",,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,
+author:  Laura M. Maruschak,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,
+date of version: 11/07/06,,,,
+
+"Figure 1. Injuries reported by inmates since admission, by gender and time served",,,,
+,Percent injured,,,
+Time served since admission,Male,,Female,
+7 days or less,4.3,%,4.3,%
+8-14 days,4.8,,7.6,
+15-30 days,7.4,,4.9,
+31-60 days,13.7,,9,
+61-180 days,17,,13.6
+181-365 days,21.1,,18.9
+365+ days,29.7,,33.9

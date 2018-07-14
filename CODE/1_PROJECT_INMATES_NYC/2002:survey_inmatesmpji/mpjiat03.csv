@@ -1,0 +1,19 @@
+Bureau of Justice Statistics,,,,,
+filename:  mpjiat03.csv,,,,,
+"Appendix table 3. Standard errors of jail inmates with an impairment, by conviction status, 2002",,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,
+author:  Laura M. Maruschak,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,
+date of version: 10/31/06,,,,,
+
+"Appendix table 3. Standard errors of jail inmates with an impairment, by conviction status, 2002",,,,,
+,,Percent of jail inmates,,,
+,,Convicted,,Unconvicted,
+Any impairment,,0.9,%,1.2,%
+,Learning,0.81,,1.04,
+,Speech,0.36,,0.56,
+,Hearing,0.45,,0.59,
+,Vision,0.61,,0.82
+,Mobility,0.22,,0.37
+,Mental,0.47,,0.75

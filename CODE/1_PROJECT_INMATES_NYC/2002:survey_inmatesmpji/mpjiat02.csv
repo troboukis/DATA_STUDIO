@@ -1,0 +1,21 @@
+Bureau of Justice Statistics,,,,,,,
+filename:  mpjiat02.csv,,,,,,,
+"Appendix table 2. Standard errors of jail inmates who reported specific current medical problems, by gender, 2002",,,,,,,
+report title: Medical Problems of Jail Inmates   NCJ 210696,,,,,,,
+data source:  2002 Survey of Inmates in Local Jails,,,,,,,
+author:  Laura M. Maruschak,,,,,,,
+refer questions to: askbjs@usdoj.gov (202) 307-0765,,,,,,,
+date of version: 10/31/06,,,,,,,
+
+"Appendix table 2. Standard errors of jail inmates who reported specific current medical problems, by gender, 2002",,,,,,,
+,,Standard error for estimated percentages,,,,,
+Current medical problem,,Total,,Male ,,Female ,
+Any problem,,0.65,%,0.72,%,1.2,%
+,Arthritis,0.48,,0.52,,0.99,
+,Asthma,0.38,,0.41,,0.94,
+,Cancer,0.11,,0.1,,0.37,
+,Diabetes,0.22,,0.23,,0.46
+,Heart problem,0.32,,0.34,,0.7
+,Hypertension,0.45,,0.5,,0.81
+,Kidney problems,0.24,,0.25,,0.75
+,Stroke,0.26,,0.28,,0.4
